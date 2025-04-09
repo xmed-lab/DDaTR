@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0, python main_test.py \
+--n_gpu 1 \
+--image_dir ./data/iu_xray/images/ \
+--ann_path ./data/iu_xray/iu_annotation_promptmrg.json \
+--dataset_name iu_xray \
+--gen_max_len 110 \
+--gen_min_len 60 \
+--batch_size 16 \
+--save_dir ./results/iuxray \
+--seed 456789 \
+--beam_size 3 \
+--load_pretrained ./checkpoints/ddatr/model_best.pth

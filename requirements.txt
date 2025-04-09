@@ -1,0 +1,10 @@
+transformers==4.25.0
+torch
+torchvision
+opencv-python
+scipy
+pandas
+scikit-learn
+timm
+fairscale
+numpy==1.24.3
