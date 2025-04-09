@@ -12,7 +12,6 @@ from dataset import create_loader
 from modules import utils
 from transformers import BertTokenizer 
 
-
 def parse_agrs():
     parser = argparse.ArgumentParser()
 
