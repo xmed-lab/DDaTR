@@ -10,3 +10,4 @@ CUDA_VISIBLE_DEVICES=0, python main_test.py \
 --seed 456789 \
 --beam_size 3 \
 --load_pretrained ./checkpoints/ddatr/model_best.pth
+
