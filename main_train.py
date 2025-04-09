@@ -20,7 +20,7 @@ def parse_agrs():
 
     # Data input settings
     parser.add_argument('--image_dir', type=str, default='data/mimic_cxr/images/', help='the path to the directory containing the data.')
-    parser.add_argument('--ann_path', type=str, default='data/mimic_cxr/mimic_annotation_promptmrg.json', help='the path to the directory containing the data.')
+    parser.add_argument('--ann_path', type=str, default='data/mimic_cxr/mimic_cxr_ddatr.json', help='the path to the directory containing the data.')
     parser.add_argument('--image_size', type=int, default=224, help='input image size')
 
     # Data loader settings
@@ -40,7 +40,7 @@ def parse_agrs():
     # Trainer settings
     parser.add_argument('--n_gpu', type=int, default=1, help='the number of gpus to be used.')
     parser.add_argument('--epochs', type=int, default=10, help='the number of training epochs.')
-    parser.add_argument('--save_dir', type=str, default='results/promptmrg', help='the path to save the models.')
+    parser.add_argument('--save_dir', type=str, default='results/ddatr', help='the path to save the models.')
     parser.add_argument('--monitor_metric', type=str, default='ce_f1', help='the metric to be monitored.')
 
     # Optimization
