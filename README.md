@@ -63,4 +63,4 @@ bash test_iu_xray.sh
 
 ## 💙 Acknowledgement
 
-DDaTR is built upon the awesome [PromptMRG](https://github.com/jhb86253817/PromptMRG/), [LVAT](https://github.com/yz93/LAVT-RIS), [LDCNet](https://github.com/huiyu8794/LDCNet).
+DDaTR is built upon the awesome [PromptMRG](https://github.com/jhb86253817/PromptMRG/), [LAVT](https://github.com/yz93/LAVT-RIS), [LDCNet](https://github.com/huiyu8794/LDCNet).
