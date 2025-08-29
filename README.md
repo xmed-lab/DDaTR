@@ -2,7 +2,7 @@
 
 <h2><a href="https://ieeexplore.ieee.org/document/11087655">DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation</a></h2>
 
-[Shanshan Song](https://scholar.google.com.hk/citations?user=EoNWyTcAAAAJ&hl=zh-CN), [Tang Hui](https://scholar.google.com/citations?user=eqVvhiQAAAAJ&hl=zh-CN), [Honglong Yang](https://scholar.google.com/citations?user=3BPUjoQAAAAJ&hl=zh-CN), [Xiaomeng Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=uVTzPpoAAAAJ)
+[Shanshan Song](https://scholar.google.com.hk/citations?user=EoNWyTcAAAAJ&hl=zh-CN), [Hui Tang](https://scholar.google.com/citations?user=eqVvhiQAAAAJ&hl=zh-CN), [Honglong Yang](https://scholar.google.com/citations?user=3BPUjoQAAAAJ&hl=zh-CN), [Xiaomeng Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=uVTzPpoAAAAJ)
  
 Hong Kong University of Science and Technology (HKUST)
 
