@@ -1,10 +1,10 @@
 <div align='center'>
 
-<h2><a href="https://github.com/xmed-lab/DDaTR">DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation</a></h2>
+<h2><a href="https://ieeexplore.ieee.org/document/11087655">DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation</a></h2>
 
 [Shanshan Song](https://scholar.google.com.hk/citations?user=EoNWyTcAAAAJ&hl=zh-CN), [Tang Hui](https://scholar.google.com/citations?user=eqVvhiQAAAAJ&hl=zh-CN), [Honglong Yang](https://scholar.google.com/citations?user=3BPUjoQAAAAJ&hl=zh-CN), [Xiaomeng Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=uVTzPpoAAAAJ)
  
-Hong Kong University of Science and Technology
+Hong Kong University of Science and Technology (HKUST)
 
 </div>
 
@@ -64,3 +64,25 @@ bash test_iu_xray.sh
 ## 💙 Acknowledgement
 
 DDaTR is built upon the awesome [PromptMRG](https://github.com/jhb86253817/PromptMRG/), [LAVT](https://github.com/yz93/LAVT-RIS), [LDCNet](https://github.com/huiyu8794/LDCNet).
+
+## 📄 Citation
+
+Paper link: [DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation](https://ieeexplore.ieee.org/document/11087655).
+
+If you use this work in your research, please cite:
+
+```bibtex
+@ARTICLE{DDaTR,
+  author={Song, Shanshan and Tang, Hui and Yang, Honglong and Li, Xiaomeng},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation}, 
+  year={2025},
+  pages={1-12},
+  keywords={Radiology report generation;Longitudinal radiology report generation;Dynamic difference-awareness;Longitudinal multimodal encoder},
+  doi={10.1109/TMI.2025.3591364}}
+
+```
+
+## 📧 Contact
+
+For questions and issues, please use the GitHub issue tracker or contact [ssongan@connect.ust.hk]. 
