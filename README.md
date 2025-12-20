@@ -72,15 +72,16 @@ Paper link: [DDaTR: Dynamic Difference-aware Temporal Residual Network for Longi
 If you use this work in your research, please cite:
 
 ```bibtex
-@ARTICLE{DDaTR,
+@ARTICLE{11087655,
   author={Song, Shanshan and Tang, Hui and Yang, Honglong and Li, Xiaomeng},
   journal={IEEE Transactions on Medical Imaging}, 
-  title={DDaTR: Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation}, 
+  title={DDaTR: Dynamic Difference-Aware Temporal Residual Network for Longitudinal Radiology Report Generation}, 
   year={2025},
-  pages={1-12},
+  volume={44},
+  number={12},
+  pages={5345-5357},
   keywords={Radiology report generation;Longitudinal radiology report generation;Dynamic difference-awareness;Longitudinal multimodal encoder},
   doi={10.1109/TMI.2025.3591364}}
-
 ```
 
 ## 📧 Contact
